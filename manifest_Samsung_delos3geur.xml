@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Samsung Galaxy Grand Quattro / Samsung Galaxy WIN-->
+    <project path="device/samsung/delos3geur" name="delos3geur/android_device_samsung_delos3geur" revision="cm-11.0" />
+    <project path="kernel/samsung/msm8625" name="delos3geur/android_kernel_samsung_msm8625"  revision="cm-11.0" />
+    <project path="vendor/samsung/delos3geur" name="delos3geur/android_kernel_samsung_delos3geur" revision="cm-11.0" />  
+</manifest>
