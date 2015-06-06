@@ -1,1 +1,1 @@
-curl -L -o .repo/local_manifests/manifest_samsung_delos3geur.xml -O -L https://raw.githubusercontent.com/delos3geur/android_local_manifest/cm-11.0/manifest_samsung_delos3geur.xml
+curl -L -o .repo/local_manifests/manifest_samsung_delos3geur.xml -O -L https://raw.githubusercontent.com/delos3geur/android_local_manifest/cm-12.1/manifest_samsung_delos3geur.xml --create-dirs
