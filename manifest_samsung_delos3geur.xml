@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Samsung Galaxy Grand Quattro / Samsung Galaxy WIN-->
-    <project path="device/samsung/delos3geur" name="delos3geur/android_device_samsung_delos3geur" revision="android-5.1" />
-    <project path="kernel/samsung/msm8625" name="delos3geur/android_kernel_samsung_msm8625"  revision="cm-11.0" />
-    <project path="vendor/samsung/delos3geur" name="delos3geur/android_vendor_samsung_delos3geur" revision="cm-11.0" />  
-    <project path="hardware/atheros/wlan" name="Cyanogenmod/android_hardware_atheros_wlan" revision="cm-12.0" />
-    <project path="hardware/qcom/display-legacy" name="delos3geur/android_hardware_qcom_display-legacy" revision="android-5.1" />
+    <project path="device/samsung/delos3geur" name="delos3geur/android_device_samsung_delos3geur" revision="android-5.1" remote="github"/>
+    <project path="kernel/samsung/msm8625" name="delos3geur/android_kernel_samsung_msm8625"  revision="cm-11.0" remote="github"/>
+    <project path="vendor/samsung/delos3geur" name="delos3geur/android_vendor_samsung_delos3geur" revision="cm-11.0" remote="github"/>  
+    <project path="hardware/atheros/wlan" name="Cyanogenmod/android_hardware_atheros_wlan" revision="cm-12.0" remote="github"/>
+    <project path="hardware/qcom/display-legacy" name="delos3geur/android_hardware_qcom_display-legacy" revision="android-5.1" remote="github"/>
     
 </manifest>
